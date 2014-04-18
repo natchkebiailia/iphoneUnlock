@@ -12,7 +12,7 @@ Examples of usage:
 
 Demo:
 ========
-<h1><a href="" target="_blank">JSFiddle</a></h1>(draw "Z" to unlock)
+<h1><a href="http://jsbin.com/pififapi/6" target="_blank">JS Bin</a></h1>
 
 Result:
 ========
