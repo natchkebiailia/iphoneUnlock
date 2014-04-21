@@ -63,7 +63,7 @@ function iphoneUnlock(){
 	pad.style.backgroundImage="-webkit-gradient(linear,left top,left bottom,color-stop(0, #3b3b3b),color-stop(1, #000000))";
 	pad.style.backgroundRepeat="no-repeat";
 	pad.style.display="inline-block";
-	pad.style.position="absolute";
+	pad.style.position="fixed";
 	pad.style.bottom="0px";
 	
 	var arrow=document.createElement("div");
